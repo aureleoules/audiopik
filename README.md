@@ -18,3 +18,6 @@ go run *.go
 ```
 
 Converted files are in the `output` folder.
+
+## Example
+![Example](https://raw.githubusercontent.com/aureleoules/audiopik/master/example.png)
